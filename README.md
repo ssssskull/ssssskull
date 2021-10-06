@@ -10,7 +10,7 @@
 
 - 📫 You can contact me at **danieljanospapp@protonmail.com**
 
-- 📄 Interested in hearing more? You can find my CV here: [https://portfolio.danielpapp.me/wp-content/uploads/CV-Daniel-Janos-Papp-.pdf](https://portfolio.danielpapp.me/wp-content/uploads/CV-Daniel-Janos-Papp-.pdf)
+- 📄 Interested in hearing more? You can find my CV here: [https://portfolio.danielpapp.me/CV-Daniel-Janos-Papp-.pdf](https://portfolio.danielpapp.me/wp-content/uploads/CV-Daniel-Janos-Papp-.pdf)
 
 - 🤝 **I'm looking for an apprenticeship at the moment, so if you're reading this, don't hesitate to get in touch**
 
