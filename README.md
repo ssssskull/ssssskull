@@ -1,4 +1,4 @@
-<h3 align="center">I'm Daniel, a web developer who's keen on learning new technologies, so if you see broken projects, be advised that I've dipped my toe in something new.</h3>
+<h3 align="left">I'm Daniel, a web developer who's keen on learning new technologies, so if you see broken projects, be advised that I've dipped my toe in something new.</h3>
 
 - 🔭 I’m currently working on **design and web projects under TaskFlex's wings, a student Freelance organisation**
 
@@ -11,6 +11,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-janos-papp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-janos-papp" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://github.com/ssssskull/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="daniel-janos-papp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
