@@ -1,4 +1,4 @@
-<h3 align="left">I'm Daniel, a web developer who's keen on learning new technologies, so if you see broken projects, be advised that I've dipped my toe in something new.</h3>
+<h3 align="left">I'm Daniel, a web developer who's keen on learning new technologies, so if you see broken projects, be advised that I've dipped my toes in something new.</h3>
 
 - 🔭 I’m currently working on design and web projects under TaskFlex's wings, a student Freelance organisation
 
