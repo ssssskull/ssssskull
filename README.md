@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on design and web projects under TaskFlex's wings, a student Freelance organisation
 
-- 🌱 I’ve just begun learning Tailwind and JAMstack, with hopes of including these in my future projects ASAP
+- 🌱 I’ve just begun learning Tailwind and JAMstack with hopes of including these in my future projects ASAP
 
 - 👋 Say hi if you meet me at tech-talks and workshops hosted by FutureSkills
 
