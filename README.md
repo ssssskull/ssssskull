@@ -1,8 +1,10 @@
 <h3 align="left">I'm Daniel, a web developer who's keen on learning new technologies, so if you see broken projects, be advised that I've dipped my toes in something new</h3>
 
-- 🔭 I’m currently working on design and web projects under TaskFlex's wings, a student Freelance organisation
+- 💼 Frontend developer intern at Morningtrain
 
-- 🌱 I’ve just begun learning Tailwind and JAMstack with hopes of including these in my future projects ASAP
+- 💻 Mentee at Abtion's mentor program focusing on best practices in the fields of Wordpress, SASS, Tailwind and React.
+
+- 🔭 I’m currently working on design and web projects under TaskFlex's wings, a student Freelance organisation
 
 - 👋 Say hi if you meet me at tech-talks and workshops hosted by FutureSkills
 
@@ -11,8 +13,6 @@
 - 📫 You can contact me at **danieljanospapp@protonmail.com**
 
 - 📄 Interested in hearing more? You can find my CV here: [https://portfolio.danielpapp.me/CV-Daniel-Janos-Papp.pdf](https://portfolio.danielpapp.me/CV-Daniel-Janos-Papp.pdf)
-
-- 🤝 **I'm looking for an apprenticeship at the moment, so if you're reading this, don't hesitate to get in touch**
 
 <h3 align="left">Find me on LinkedIn:</h3>
 <p align="left">
